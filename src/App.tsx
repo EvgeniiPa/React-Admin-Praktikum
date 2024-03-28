@@ -1,4 +1,4 @@
-import { Admin, Resource, ShowGuesser } from "react-admin";
+import { Admin, Resource } from "react-admin";
 import { GetList } from "./components/GetList/GetList";
 import { GetAuto } from "./components/GitAuto/GetAuto";
 import { CreateAuto } from "./components/CreateAuto/CreateAuto";
